@@ -6,7 +6,7 @@
 
 Le projet 68K ne cherche pas à promouvoir l'image de ses initiateurs mais, au contraire, à se positionner comme réseau commercialement neutre. Il est ouvert à tous les acteurs du numérique, concurrents ou non; c'est ainsi qu'il gagnera sa légitimé.
 
-# Intérêt pour la communauté
+# Intérêt
 
 Les acteurs de la communauté numérique du Haut-Rhin seront fédérés en réseau collaboratif.
 
@@ -16,7 +16,7 @@ Des nexus du numérique dans le Haut-Rhin seront fondés au sein d'espaces de co
 
 68K cherche ainsi donner corps à l'écosystème numérique du Haut-Rhin, s'inspirant en cela du formidable travail d'Alsace Digitale dans le Bas-Rhin.
 
-# Services
+# Services proposés
 
 Pour mener à bien ses missions, 68K dispose d'une plateforme en ligne, http://68k.io (pour l'instant, il s'agit d'une page de préinscription et de présentation du concept), et du soutien de l’espace de coworking "Square" à Colmar.
 
